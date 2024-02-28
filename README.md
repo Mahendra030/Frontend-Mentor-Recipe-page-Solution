@@ -13,7 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://github.com/Mahendra030/Frontend-Mentor-Recipe-page-Solution)
 - Live Site URL: 
 
 ## My process
